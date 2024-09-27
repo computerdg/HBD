@@ -1,0 +1,10 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×éž©ÿÿÿÿÿ8öÊ»•£2J$64c8c402-1382-4b77-b746-c8245dfc9aaf
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Ô€¦Ïýÿÿÿÿ8ùÊ»•£2J$2a16377b-0b5c-4dde-9d75-a2e6ebeeaa17
+}
+java:S1854":Remove this useless assignment to local variable "client".(˜„Å¾8ýÊ»•£2J$0c019be2-42fa-4870-a978-8ba3371150b7
+w
+java:S1172"/Remove this unused method parameter "BASE_URL".(×éž©ÿÿÿÿÿ8ýÊ»•£2J$9de4af8c-e8df-4452-bc22-5eaa6be04574
+n
+java:S1481"+Remove this unused "client" local variable.(˜„Å¾8þÊ»•£2J$5dba0967-4925-4f63-b273-e4b72842a2d0

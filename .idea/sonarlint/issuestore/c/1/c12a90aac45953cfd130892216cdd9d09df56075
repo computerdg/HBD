@@ -1,0 +1,6 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÀ  üÿÿÿÿ8Çÿ•–£2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Í­Ê—£2
+L
+java:S1128	"/Remove this unused import 'retrofit2.http.GET'.(¬ü‰´8Í­Ê—£2
